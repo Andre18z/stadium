@@ -1,0 +1,11 @@
+- FIX (?): mostra password encryptada ao criar user
+
+
+
+ACCS:
+
+adm: Admin | admin123
+
+users:
+Diogo | diogo123
+User | user123
